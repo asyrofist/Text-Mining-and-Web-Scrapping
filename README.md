@@ -150,3 +150,14 @@ First Level Extraction
 Extracting all Authors and their corresponding blog links at level 1:
 
 https://indianbloggers.org/
+
+
+# Summary
+
+Web Scrapping started with step-0 from indiablogger site and extracted details about cooking bloggers with First level of extraction.
+
+
+Second level extraction started for each blogger where perfomed a web scrapping from their respective blog page and extracted links for other blogs of the same blogger.
+
+
+Result from this research , the frequency plots of words for clustering on tfidf matrix and document-topic matrix are same.
